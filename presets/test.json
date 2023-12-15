@@ -38,7 +38,7 @@
     ],
     "default_aspect_ratio": "1152*896",
     "checkpoint_downloads": {
-        "juggernautXL_version7Rundiffusion.safetensors": "https://civitai.com/api/download/models/240840"
+        "juggernautXL_version7Rundiffusion.safetensors": "https://drive.google.com/file/d/1-ArkGbaFIMFgbckIOIZkpVTiRut8N6q8/view?usp=drivesdk"
     },
     "embeddings_downloads": {},
     "lora_downloads": {
