@@ -38,7 +38,7 @@
     ],
     "default_aspect_ratio": "1152*896",
     "checkpoint_downloads": {
-        "DreamshaperXL.safetensors": "https://huggingface.co/Thekingbalxd/fav_models/blob/main/dreamshaperXL_alpha2Xl10%20(1).safetensors"
+        "DreamshaperXL.safetensors": "https://huggingface.co/Thekingbalxd/fav_models/resolve/main/dreamshaperXL_alpha2Xl10%20(1).safetensors?download=true"
     },
     "embeddings_downloads": {},
     "lora_downloads": {
