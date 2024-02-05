@@ -38,7 +38,7 @@
     ],
     "default_aspect_ratio": "1152*896",
     "checkpoint_downloads": {
-        "AlbedoBaseXL.safetensors": "https://civitai.com/api/download/models/281176"
+        "AlbedoBaseXL.safetensors": "https://civitai.com/api/download/models/329420"
     },
     "embeddings_downloads": {},
     "lora_downloads": {
