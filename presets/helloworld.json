@@ -1,5 +1,5 @@
 {
-    "default_model": "Realismenginev2.safetensors",
+    "default_model": "Helloworldxlv5.safetensors",
     "default_refiner": "None",
     "default_refiner_switch": 0.5,
     "default_loras": [
@@ -8,7 +8,7 @@
             0.5
         ],
         [
-            "None",
+            "Adddetail.safetensors",
             1.0
         ],
         [
@@ -38,10 +38,11 @@
     ],
     "default_aspect_ratio": "1152*896",
     "checkpoint_downloads": {
-        "Realismenginev2.safetensors": "https://civitai.com/api/download/models/258380?type=Model&format=SafeTensor&size=pruned&fp=fp16"
+        "Helloworldxlv5.safetensors": "https://civitai.com/api/download/models/338512"
     },
     "embeddings_downloads": {},
     "lora_downloads": {
         "sd_xl_offset_example-lora_1.0.safetensors": "https://huggingface.co/stabilityai/stable-diffusion-xl-base-1.0/resolve/main/sd_xl_offset_example-lora_1.0.safetensors"
+    "adddetail.safetensors": "https://civitai.com/api/download/models/135867"
     }
 }
