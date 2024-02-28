@@ -30,7 +30,7 @@
     "default_scheduler": "karras",
     "default_performance": "Speed",
     "default_prompt": "",
-    "default_prompt_negative": "(watermark:1.2), (text:1.2), (logo:1.2), (3d render:1.2), drawing, painting, crayon",
+    "default_prompt_negative": "(worst quality,low resolution,bad hands),distorted,twisted,watermark",
     "default_styles": [
         "Fooocus V2",
         "Fooocus Enhance",
